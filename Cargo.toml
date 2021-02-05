@@ -1,6 +1,6 @@
 [package]
 name = "randomwalk"
-version = "0.1.3"
+version = "0.1.4-alpha.0"
 authors = ["19h <kenan@sig.dev>"]
 edition = "2018"
 
