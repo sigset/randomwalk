@@ -6,7 +6,11 @@
 Build glorious random walks.
 </h5>
 
+<br/>
+
 ---
+
+<br/>
 
 ```rust
 use randomwalk::generators::NormalGenerator;
