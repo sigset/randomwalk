@@ -1,11 +1,11 @@
 [package]
 name = "randomwalk"
-version = "0.1.2"
+version = "0.1.3-alpha.0"
 authors = ["19h <kenan@sig.dev>"]
 edition = "2018"
 
 repository = "https://github.com/sigset/randomwalk"
-documentation = "https://docs.rs/clap/latest/clap/"
+documentation = "https://docs.rs/randomwalk/latest/randomwalk/"
 
 description = "Build glorious random walks."
 
