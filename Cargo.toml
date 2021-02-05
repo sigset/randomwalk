@@ -1,0 +1,17 @@
+[package]
+name = "randomwalk"
+version = "0.1.0"
+authors = ["19h <kenan@sig.dev>"]
+edition = "2018"
+
+description = "Build glorious random walks."
+
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.19"
+rand = "0.8.3"
+rand_distr = "0.4.0"
+rand_hc = "0.3.0"
